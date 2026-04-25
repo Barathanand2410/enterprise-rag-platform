@@ -198,15 +198,15 @@ http://127.0.0.1:5173
 
 ## Login Page
 
-![Login Page](assets/login-page.png)
+<img src="assets/login-page.png" width="900"/>
 
 ## Dashboard
 
-![Dashboard](assets/dashboard.png)
+<img src="assets/dashboard.png" width="900"/>
 
 ## Citation Answer
 
-![Citation Answer](assets/citation-answer.png)
+<img src="assets/citation-answer.png" width="900"/>
 
 ## Future Enhancements
 

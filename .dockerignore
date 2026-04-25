@@ -1,0 +1,12 @@
+venv
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.env
+chroma_storage
+data/uploads
+.git
+.gitignore
+.vscode
+.idea

@@ -198,15 +198,16 @@ http://127.0.0.1:5173
 
 ## Login Page
 
-<img src="assets/login-page.png" width="900"/>
+<img width="1919" height="893" alt="login-page" src="https://github.com/user-attachments/assets/99046063-5de1-4151-b426-4215875fba35" />
 
 ## Dashboard
 
-<img src="assets/dashboard.png" width="900"/>
+<img width="1856" height="847" alt="dashboard" src="https://github.com/user-attachments/assets/bccb6881-16eb-432b-836a-96cd32caf5b5" />
+
 
 ## Citation Answer
 
-<img src="assets/citation-answer.png" width="900"/>
+<img width="1231" height="890" alt="citation-answer" src="https://github.com/user-attachments/assets/d7f71e06-7da1-4ec0-b0c2-9e405b2d4d1f" />
 
 ## Future Enhancements
 
